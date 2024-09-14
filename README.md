@@ -54,7 +54,7 @@
 
 ![QT](https://img.shields.io/badge/5-6-41CD52?logo=qt)
 ![CXX](https://img.shields.io/badge/C++-17|20-blue?logo=cplusplus)
-![Rust](https://img.shields.io/badge/Rust-Rocket-grey?logo=rust)
+![Rust](https://img.shields.io/badge/Rust-Rocket-lightgrey?logo=rust)
 
 [digidocu](https://www.digidocu.dev/) is a rich web application that can be used to create redundancy-free, multilingual documentation.
 
