@@ -140,9 +140,11 @@ bla bla ... with a little help from my friends
 │   └── img
 │       ├── functional_process_current.png
 │       └── product_view_current.png
+├── src
+│   └── .gitkeep
 └── tree.bak
 
-7 directories, 15 files
+8 directories, 16 files
 ```
 <!-- readme-tree end -->
 
