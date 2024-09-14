@@ -1,12 +1,12 @@
 <div id="top" align="center">
 <h1>DigiDocuDev</h1>
 
-<p>Template for new Github repos</p>
+<p>RWA for maintenance of technical documentation</p>
 
 [Report Issue](https://github.com/Zheng-Bote/repo-template/issues) [Request Feature](https://github.com/Zheng-Bote/repo-template/pulls)
 
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
-![GitHub Created At](https://img.shields.io/github/created-at/Zheng-Bote/repo-template)
+[![Apache License](https://img.shields.io/badge/License-Apache_v2.0-green.svg)](<[https://choosealicense.com/licenses/mit/](http://www.apache.org/licenses/LICENSE-2.0)>)
+![GitHub Created At](https://img.shields.io/github/created-at/Zheng-Bote/digidocu_dev)
 
 </div>
 
@@ -55,12 +55,12 @@
 
 # Description
 
-![GHA](https://img.shields.io/badge/Github-Action-black?logo=githubactions)
-![Node](https://img.shields.io/badge/Node-20-blue?logo=tsnode)
+![QT](https://img.shields.io/badge/5-6-41CD52?logo=qt)
+![CXX](https://img.shields.io/badge/C++-17|20-blue?logo=cplusplus)
 
-digidocu is a rich web application that can be used to create redundancy-free, multilingual documentation.
+[digidocu](https://www.digidocu.dev/) is a rich web application that can be used to create redundancy-free, multilingual documentation.
 
-Optimized for maintenance of technical documentation
+Optimized for maintenance of technical documentation.
 
 ### Features
 
@@ -98,6 +98,14 @@ create ToC in Markdown files in folders
 - .github/workflows/\*\*
 - dist/\*\*
 - docs/\*\*
+
+### Application
+
+> \[!CAUTION]
+> [digidocu versions ≤ v2](https://www.digidocu.dev/architecture_v1-2.html) with QT5 | QT6 and Vanilla Javascript/Vue2 are outdated and deprecated.
+
+> \[!NOTE]
+> [digidocu versions ≥ v3](https://www.digidocu.dev/architecture_v3.html) are based on Rust and Angular/Vue3 and still maintained.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -192,8 +200,6 @@ see also: [https://www.digidocu.dev/architecture_v3.html](https://www.digidocu.d
 
 ## Architecture
 
-## Application
-
 ### Product View
 
 ![product view](docs/img/product_view_current.png)
@@ -206,20 +212,11 @@ see also: [https://www.digidocu.dev/architecture_v3.html](https://www.digidocu.d
 
 ## Comments
 
-> \[!NOTE]
-> Useful information that users should know, even when skimming content.
-
-> \[!TIP]
-> Helpful advice for doing things better or more easily.
-
-> \[!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> \[!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
-
 > \[!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
+> [digidocu versions ≤ v2](https://www.digidocu.dev/architecture_v1-2.html) with QT5 | QT6 and Vanilla Javascript/Vue2 are outdated and deprecated.
+
+> \[!NOTE]
+> [digidocu versions ≥ v3](https://www.digidocu.dev/architecture_v3.html) are based on Rust and Angular/Vue3 and still maintained.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
